@@ -1,0 +1,15 @@
+h1 {
+    background-color: black;
+    text-align: left;
+    color: white;
+    .cloud {color:cyan}
+}
+h2 {background-color: purple;
+    text-align: center;
+    color: white;
+}
+h3 {background-color: aqua;
+    text-align: right;
+    text-decoration: underline;
+    color: black;
+}
